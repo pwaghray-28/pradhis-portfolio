@@ -1,0 +1,22 @@
+h1{
+    color:darkslategrey;
+    display:flex;
+    justify-content:center;
+    align-items:stretch
+}
+body{
+    color:ivory;
+    background-color: royalblue;
+    
+}
+.images{display:flex;
+    /*flex-direction: column;*/
+justify-content:flex-end}
+*{
+    border:solid
+}
+.portfolio{
+    display:flex;
+    justify-content: space-between
+}
+
